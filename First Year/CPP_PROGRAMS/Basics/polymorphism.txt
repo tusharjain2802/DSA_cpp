@@ -1,0 +1,7 @@
+POLYMORPHISM:
+Compile time polymorphism->
+1. Function Overloading
+2. Operator Overloading
+
+Run-time Polymorphism:
+1. Virtual Functions.

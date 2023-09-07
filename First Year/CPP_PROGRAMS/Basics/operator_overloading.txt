@@ -1,0 +1,12 @@
+OPERATOR OVERLOADIONG:
+operators like 
+scope resolution ::
+sizeof
+member selectro (.)
+member pointer (*)
+ternary operator (?:)
+cannot be overloaded
+
+overloading special operator like(),[]
+overloading arithmetic operator, relational operator,overloading unary and binary using friend function.
+Data Conversion.
